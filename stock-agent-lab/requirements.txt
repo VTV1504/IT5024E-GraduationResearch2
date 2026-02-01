@@ -1,0 +1,9 @@
+python-dotenv
+requests
+psycopg[binary]
+pandas
+tqdm
+python-dateutil
+scikit-learn
+joblib
+torch
