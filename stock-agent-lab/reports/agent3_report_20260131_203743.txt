@@ -1,0 +1,28 @@
+Agent 3 Report
+events attempted: 64990
+features produced: 64990
+news features missing: 0
+price context missing: 22685
+corp milestone features missing: 64990
+
+Top 20 features by non-null occurrence:
+- event_earnings: 64990
+- event_governance: 64990
+- event_mna: 64990
+- event_legal: 64990
+- event_macro: 64990
+- event_rumor: 64990
+- event_corp_action: 64990
+- event_other: 64990
+- sentiment: 64990
+- impact_hint: 64990
+- title_len: 64990
+- text_len: 64990
+- kw_profit: 64990
+- kw_revenue: 64990
+- kw_dividend: 64990
+- kw_investigation: 64990
+- kw_interest_rate: 64990
+- kw_inflation: 64990
+- kw_lãi_suất: 64990
+- kw_doanh_thu: 64990

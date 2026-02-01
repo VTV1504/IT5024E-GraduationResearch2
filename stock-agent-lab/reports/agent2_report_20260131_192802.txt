@@ -1,0 +1,13 @@
+Agent 2 Report
+news_events considered: 67728
+market_reactions produced: 64946
+
+Drop reasons:
+- missing_publish_date: 198
+- missing_t0: 25
+- no_price_rows: 0
+- insufficient_closes: 105
+- insufficient_horizon: 2454
+
+label balance: up=35262, down=29684
+ret_h summary: mean=0.028397140692633, std=0.1209455716039492, min=-0.39021164021164023, max=1.1062670299727522, median=0.018035041633624238

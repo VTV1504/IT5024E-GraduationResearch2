@@ -1,0 +1,11 @@
+Agent 4 Report
+dataset size: 130953
+t0 range: 2023-01-03 -> 2026-01-28
+train samples: 104762
+val samples: 26191
+feature dimensions: 178
+model: LogisticRegression(max_iter=500, class_weight=balanced)
+metrics: {'accuracy': 0.4005574433965866, 'precision': 0.666347687400319, 'recall': 0.12476855999522188, 'auc': 0.49549707871395243}
+backtest: {'n_trades': 786, 'mean_ret_h': 0.06454395755927192, 'hit_rate': 0.6959287531806616}
+train t0 range: 2023-01-03 -> 2025-02-03
+val t0 range: 2025-02-03 -> 2026-01-28

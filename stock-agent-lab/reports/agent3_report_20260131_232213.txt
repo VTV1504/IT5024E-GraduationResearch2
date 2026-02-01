@@ -1,0 +1,28 @@
+Agent 3 Report
+events attempted: 130953
+features produced: 130953
+news features missing: 0
+price context missing: 48142
+corp milestone features missing: 130953
+
+Top 20 features by non-null occurrence:
+- event_earnings: 130953
+- event_governance: 130953
+- event_mna: 130953
+- event_legal: 130953
+- event_macro: 130953
+- event_rumor: 130953
+- event_corp_action: 130953
+- event_other: 130953
+- sentiment: 130953
+- impact_hint: 130953
+- title_len: 130953
+- text_len: 130953
+- kw_profit: 130953
+- kw_revenue: 130953
+- kw_dividend: 130953
+- kw_investigation: 130953
+- kw_interest_rate: 130953
+- kw_inflation: 130953
+- kw_lãi_suất: 130953
+- kw_doanh_thu: 130953
